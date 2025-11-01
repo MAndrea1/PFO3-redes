@@ -3,7 +3,7 @@ Micaela Andrea Higa
 
 ## Diagrama teórico de un sistema distribuido.
 
-![Sistema distribuido](docs\diagrama.png)
+![Sistema distribuido](docs/diagrama.png)
 
 En este diagrama podemos observar:  
 o Clientes (móviles, web).   
